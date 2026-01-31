@@ -1,4 +1,4 @@
 <?php
- print "Esta e sla prueba buena";
+ print "Esta es la prueba buena";
  phpinfo();
 ?>
